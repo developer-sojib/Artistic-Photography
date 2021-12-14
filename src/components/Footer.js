@@ -89,7 +89,8 @@ function Footer() {
             </ul>
           </div>
           <ParagraphText className="footer__copyright">
-            © Artistic Creative {new Date().getFullYear()}. All rights reserved
+            Developed By © Abdul Awal Sojib {new Date().getFullYear()}. All
+            rights reserved
           </ParagraphText>
         </div>
       </div>

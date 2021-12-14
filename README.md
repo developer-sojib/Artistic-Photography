@@ -4,7 +4,7 @@
 
 Made with ❤️ by [Shaif Arfan](http://instagram.com/shaifarfan08/)
 
-**Live preview: [https://wc-artistic.netlify.app/](https://wc-artistic.netlify.app/)**
+**Live preview: [https://wc-Artistic.netlify.app/](https://wc-Artistic.netlify.app/)**
 
 **Watch on YouTube: Coming Soon**
 
