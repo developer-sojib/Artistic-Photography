@@ -2,9 +2,9 @@
 
 # Artistic 📸
 
-Made with ❤️ by [Shaif Arfan](http://instagram.com/shaifarfan08/)
+Made with ❤️ by [Abdul Awal Sojib](http://instagram.com/developersojib/)
 
-**Live preview: [https://wc-Artistic.netlify.app/](https://wc-Artistic.netlify.app/)**
+**Live preview: [https://artisticphotography.netlify.app/](https://artisticphotography.netlify.app/)**
 
 **Watch on YouTube: Coming Soon**
 
@@ -60,9 +60,10 @@ npm start
 
 Here are some Similar projects that you might be interested.
 
-- [Ayan's Portfolio - React JS Project](https://github.com/ShaifArfan/AYANs-portfolio)
-- [Shaif's Cuisine - HTML, CSS project](https://github.com/ShaifArfan/shaif-s-cuisine)
-- [Amy's Portfolio - HTML, CSS Project](https://github.com/ShaifArfan/AMYs-Portfolio)
+- [Bike Bazar - React JS Project](https://bike-bazar-sojib.web.app/)
+- [Travio Travel - React JS Project](https://travel-website-d85ca.web.app/)
+- [Silent Provision - React JS Project](https://silentprovision.netlify.app/)
+
 
 ---
 
@@ -88,10 +89,8 @@ If you have any feedback, please reach out to us at [@web_cifar](http://instagra
 
 ## Support
 
-For support, join our [Community Group](http://facebook.com/groups/webcifar).
+For support, join our [Community Group](http://facebook.com/developersojib).
 
 ## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 Happy Coding! 🚀
